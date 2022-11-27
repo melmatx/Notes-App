@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Notes-App">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Notes_App_jar/Notes-App.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
